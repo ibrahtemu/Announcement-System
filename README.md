@@ -12,4 +12,8 @@ Student            vivi                     1234
 Student            Cherry                   0987
 
 
+Upload the 'announce.sql' file inn your local host to obtain the database.
+The 'connection.php' plays the interaction between pages and database.
+
+
 
